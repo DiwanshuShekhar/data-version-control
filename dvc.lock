@@ -2,7 +2,7 @@ prepare:
   cmd: python src/prepare.py
   deps:
   - path: data/raw
-    md5: b3f25c7801a68f0a987b7546716e197c.dir
+    md5: 5b4129f7bce5103c00a73fdaff6f752c.dir
   - path: src/prepare.py
     md5: ef804f358e00edcfe52c865b471f8f55
   outs:
